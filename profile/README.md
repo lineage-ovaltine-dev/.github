@@ -3,7 +3,7 @@
 This is Pig from LineageOS
 
  - 🙋‍♀️ This Org is mainly for storing source codes for ovaltine (OnePlus 10T / ACE Pro) that have not made it to the upstream Lineage gerrit yet
- - 🪲 Currently, three main bugs are: SMS receiving, Auto brightness, and FOD.
+ - 🪲 Currently, three main bugs is: Minor issue with FOD blasting the entire screen and not just the icon, although it doesn't affect the normal operation of the sensor.
  - 👩‍💻 Documentation on how to build by yourself will be updated soon.
  - 🍿 Find my Telegram group chat below!
    
