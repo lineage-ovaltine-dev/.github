@@ -10,4 +10,4 @@ This is Pig from LineageOS
 - Obviously, I am maintaining LineageOS for ![OnePlus 10T](https://img.shields.io/badge/OnePlus%2010T/ACEPro-fd4900?style=flat-square&logo=OnePlus&logoColor=ffffff)  aka ovaltine.
 - Join the Telegram group chat to get the latest updates! [![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40LineageOSOvaltine&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dlineageovaltine&longCache=true)](https://t.me/lineageovaltine)
 
-![10T-Black-S](https://github.com/user-attachments/assets/42368eb2-25de-4f62-a830-2052a73241bf)
+![oneplus-10t-5g-moonstone-black_2048x](https://github.com/user-attachments/assets/6fa52acd-fed3-4ef8-bb33-0803c92260a8)
