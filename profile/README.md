@@ -4,7 +4,7 @@ This is Pig from LineageOS
 
  - 🙋‍♀️ This Org is mainly for storing source codes for ovaltine (OnePlus 10T / ACE Pro)  ![oneplus-10t-5g-moonstone-black_150x](https://github.com/user-attachments/assets/40a19369-a3d9-44de-9663-a7af33b274b7)
  that have not made it to the upstream Lineage gerrit yet
- - 🪲 Currently, the main bugs are: Inaccurate auto-brightness, and occasional system lockups.
+ - 🪲 Currently, the main bugs are: Inaccurate auto-brightness.
  - 👩‍💻 Documentation on how to build by yourself will be updated soon.
  - 🍿 Find my Telegram group chat below!
    
